@@ -1,3 +1,7 @@
+# UseAiToolz 
+Use AI tools to maximise your productivity. 
+All AI tools in one place, discover and learn to use them
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
